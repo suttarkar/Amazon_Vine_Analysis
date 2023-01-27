@@ -25,3 +25,4 @@ This was started by first creating seperate tables using queries in pgAdmin, imp
 
 
 ## Summary
+There does not seem to be any positivity bias present for reviews in the vine program. The amount of 5 star reviews seems to be extremely close between Vine and non-Vine reviews(47% and 51%, respectively).
